@@ -35,7 +35,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   # plugin to help maintain effective Dart standards
-  lints: ^4.0.0
+  lints: ^5.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
